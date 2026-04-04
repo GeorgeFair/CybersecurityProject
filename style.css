@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  color: lightgrey;
+  background-color: lightgrey;
 }
 
 header {
@@ -18,7 +18,7 @@ header {
 }
 
 .card {
-  background: lightgrey;
+  background: mediumblue;
   color: white;
   padding: 20px;
   border-radius: 10px;
