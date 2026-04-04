@@ -63,7 +63,7 @@ header {
 
 
 
-/* Break point for mobile devices like tablets */
+/* Mobile layout */
 @media (max-width: 768px) {
     .card-container {
       flex-direction: column;
