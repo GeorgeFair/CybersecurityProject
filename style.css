@@ -25,10 +25,17 @@ header {
   border-radius: 10px;
   width: 220px;
   text-align: center;
+  position: relative;
 }
 
 .card_link {
   color: white;
+}
+
+.card_img{
+  position: absolute;
+  width: 100%;
+  padding: 10;
 }
 
 .home-button {
