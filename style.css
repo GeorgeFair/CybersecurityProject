@@ -29,3 +29,13 @@ header {
 .card_link {
   color: white;
 }
+
+.home-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: white;
+  color: lightgrey;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
