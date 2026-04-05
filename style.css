@@ -31,6 +31,10 @@ header {
 
 }
 
+.card:hover {
+  border-color: black;
+}
+
 .card_link {
   color: #5481E5;
   text-decoration: none;
