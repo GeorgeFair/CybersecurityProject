@@ -27,6 +27,8 @@ header {
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
   background: #5481E5;
   color: white;
   border: 2px solid white;
