@@ -32,7 +32,7 @@ header {
 }
 
 .card:hover {
-  border-color: black;
+  border-color:#C4C7DE;
 }
 
 .card_link {
