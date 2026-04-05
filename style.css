@@ -83,8 +83,6 @@ header {
   color: white;
 }
 
-
-
 /* Mobile layout */
 @media (max-width: 768px) {
     .card_container {
@@ -99,10 +97,6 @@ header {
     header {
       display: flex;
       flex-direction: column;
-    }
-
-    .home_button {
-      position: static;
     }
 
     header h1 {
