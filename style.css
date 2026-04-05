@@ -4,6 +4,13 @@ body {
   background-color: #C0CCE5;
 }
 
+.nav_bar {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
 header {
   background: #5481E5;
   color: white;
@@ -63,9 +70,6 @@ header {
 }
 
 .home_button {
-  position: absolute;
-  top: 20px;
-  left: 20px;
   background-color: white;
   color: #5481E5;
   padding: 10px 15px;
