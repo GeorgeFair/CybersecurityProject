@@ -40,6 +40,11 @@ header {
   border-radius: 5px;
 }
 
+.card_link:hover {
+  background-color: #C0CCE5;
+  color: white;
+}
+
 .card_img{
   position: absolute;
   top: 10px;
@@ -59,6 +64,11 @@ header {
   border-radius: 5px;
   text-decoration: none;
   font-weight: bold;
+}
+
+.home-button:hover {
+  background-color: #C0CCE5;
+  color: white;
 }
 
 
